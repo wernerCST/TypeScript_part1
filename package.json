@@ -1,7 +1,7 @@
 {
   "name": "hello",
   "version": "1.0.0",
-  "description": "This project is meant to test express and typscript...",
+  "description": "This project is meant to test express and typscript.",
   "main": "index.js",
   "scripts": {
     "watch-ts": "tsc -w",
